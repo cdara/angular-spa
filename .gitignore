@@ -35,3 +35,12 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+#Basic ignore
+node_modules/
+bower_components/
+.sass-cache/
+.idea/
+.tmp/
+.dist/
+.DS_Store
